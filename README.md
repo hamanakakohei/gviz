@@ -17,4 +17,6 @@ mamba create -n gviz -c bioconda -c conda-forge \
   bioconductor-summarizedexperiment \
   bioconductor-variantannotation \
   bioconductor-ensembldb \
-  r-base=4.3
+  r-base=4.3 \
+  r-optparse \
+  r-tidyverse
